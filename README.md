@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in MERN stack ...
 - 🌱 I’m currently learning Devops ...
-- 🌐 [Portfolio][portfolio] -->
+- 🌐 [My Portfolio][portfolio] -->
 
 ### Languages & Tools
 
